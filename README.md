@@ -1,2 +1,2 @@
 # DevOps1
-Test purpose
+print"{x+y=10}"
